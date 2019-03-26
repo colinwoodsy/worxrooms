@@ -11,5 +11,9 @@
     "url": "git@github:colinwoodsy/worxrooms.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "serve-static": "^1.13.2"
+  }
 }
